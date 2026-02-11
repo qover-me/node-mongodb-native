@@ -1,6 +1,9 @@
 {
-  "name": "mongodb",
-  "version": "7.1.0",
+  "name": "@qover-private/mongodb",
+  "version": "7.2.0",
+  "publishConfig": {
+    "registry": "https://europe-npm.pkg.dev/qover-platform/npm-private/"
+  },
   "description": "The official MongoDB driver for Node.js",
   "main": "lib/index.js",
   "files": [
